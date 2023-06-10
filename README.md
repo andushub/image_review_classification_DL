@@ -21,6 +21,8 @@
 - 29CM : 이미지 리뷰 데이터
 
 ### **# 파일설명**
+- 29cm_crawling : 29cm 크롤링 코드
+- musinsa_crawling : 무신사 크롤링 코드
 - EDA.ipynb : 모델링 전 EDA 및 결과 EDA
 - train.ipynb : 학습 코드
 - test_and_connect.ipynb : 테스트 코드 및 카테고리 분류기, 등급분류기 연결 코드

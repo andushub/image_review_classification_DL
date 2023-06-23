@@ -27,15 +27,13 @@
 - train.ipynb : 학습 코드
 - test_and_connect.ipynb : 테스트 코드 및 카테고리 분류기, 등급분류기 연결 코드
 
+### **# 진행 내역 Notion**
+- [Notoin Link](https://pollen-trombone-0be.notion.site/_DL-fd2e9c3b72a745b3ab01bc096aa7ffd5?pvs=4)
+
 ### **# 모델 Flow**
 ![그림2](https://github.com/andushub/image_review_classification_DL/assets/99305268/884b6e11-402c-4d84-a2a7-87741bbdbc1f)
-
-### **진행 내역 Notion**
-Notoin Link(https://pollen-trombone-0be.notion.site/_DL-fd2e9c3b72a745b3ab01bc096aa7ffd5?pvs=4)
-
 <br><br/>
 <br><br/>
-
 ### **# 프로젝트 상세 내용**
 ![슬라이드1](https://github.com/andushub/image_review_classification_DL/assets/99305268/2779c2a2-a401-4d9c-965e-b64597fad678)
 ![슬라이드2](https://github.com/andushub/image_review_classification_DL/assets/99305268/1a2a59bb-b424-4d7b-b590-353be9492a95)

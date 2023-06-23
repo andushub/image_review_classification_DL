@@ -30,6 +30,9 @@
 ### **# 모델 Flow**
 ![그림2](https://github.com/andushub/image_review_classification_DL/assets/99305268/884b6e11-402c-4d84-a2a7-87741bbdbc1f)
 
+### **진행 내역 Notion**
+Notoin Link(https://pollen-trombone-0be.notion.site/_DL-fd2e9c3b72a745b3ab01bc096aa7ffd5?pvs=4)
+
 <br><br/>
 <br><br/>
 
